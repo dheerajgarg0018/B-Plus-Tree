@@ -62,7 +62,7 @@ int main()
             // print
             BNode *r = Tree.getRoot();
             Tree.display();
-            Tree.print(r);
+            // Tree.print(r);
         }
         else if (n == 3)
             break;
